@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "319607691347",
+    "firebase_url": "https://find-back-af636-default-rtdb.firebaseio.com",
+    "project_id": "find-back-af636",
+    "storage_bucket": "find-back-af636.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319607691347:android:975a071ee10a6fcbdccea6",
+        "android_client_info": {
+          "package_name": "com.example.find_back"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaV0joxN9eNIBCDlJkvfvYYnE8iCfSy8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
