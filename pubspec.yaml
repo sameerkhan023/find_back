@@ -11,11 +11,24 @@ dependencies:
   flutter:
     sdk: flutter
 
+  # iOS style icons
   cupertino_icons: ^1.0.8
 
+  # Firebase
   firebase_core: ^4.0.0
   firebase_auth: ^6.0.0
   cloud_firestore: ^6.0.0
+  firebase_database: ^12.5.0
+  firebase_storage: ^13.5.0
+
+  # Maps & Location
+  flutter_map: ^8.1.1
+  latlong2: ^0.9.1
+  geolocator: ^13.0.1
+  geocoding: ^4.0.0
+
+  # Image Picker
+  image_picker: ^1.2.3
 
 dev_dependencies:
   flutter_test:
